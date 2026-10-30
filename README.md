@@ -19,7 +19,7 @@ only when they're in reach, instead of moving to preset positions.
 | ESP32-CAM | 1 |
 | [Servo model] | 4 |
 | HC-SR04 ultrasonic sensor | 1 |
-| [Power supply] | 1 |
+| Power supply PCA 9685 | 1 |
 
 ## Design iterations
 Joint tolerances and cable routing were revised across print versions
