@@ -17,7 +17,7 @@ only when they're in reach, instead of moving to preset positions.
 | Part | Qty |
 |------|-----|
 | ESP32-CAM | 1 |
-| [Servo model] | 4 |
+| MG90S SERVO MOTORS | 4 |
 | HC-SR04 ultrasonic sensor | 1 |
 | Power supply PCA 9685 | 1 |
 
